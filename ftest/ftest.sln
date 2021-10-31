@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "ftest", "ftest\ftest.vfproj", "{91C61BFC-CEC8-4485-82E2-E9D426A6CD27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C61BFC-CEC8-4485-82E2-E9D426A6CD27}.Debug|x64.ActiveCfg = Debug|x64
+		{91C61BFC-CEC8-4485-82E2-E9D426A6CD27}.Debug|x64.Build.0 = Debug|x64
+		{91C61BFC-CEC8-4485-82E2-E9D426A6CD27}.Debug|x86.ActiveCfg = Debug|Win32
+		{91C61BFC-CEC8-4485-82E2-E9D426A6CD27}.Debug|x86.Build.0 = Debug|Win32
+		{91C61BFC-CEC8-4485-82E2-E9D426A6CD27}.Release|x64.ActiveCfg = Release|x64
+		{91C61BFC-CEC8-4485-82E2-E9D426A6CD27}.Release|x64.Build.0 = Release|x64
+		{91C61BFC-CEC8-4485-82E2-E9D426A6CD27}.Release|x86.ActiveCfg = Release|Win32
+		{91C61BFC-CEC8-4485-82E2-E9D426A6CD27}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E65EC033-4DB7-446D-BEB2-8316A591B5B1}
+	EndGlobalSection
+EndGlobal

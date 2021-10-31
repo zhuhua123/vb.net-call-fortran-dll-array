@@ -1,0 +1,9 @@
+G:\vb and fortran\array\WindowsApplication4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\vb and fortran\array\WindowsApplication4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\vb and fortran\array\WindowsApplication4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\vb and fortran\array\WindowsApplication4\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+G:\vb and fortran\array\WindowsApplication4\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+G:\vb and fortran\array\WindowsApplication4\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+G:\vb and fortran\array\WindowsApplication4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\vb and fortran\array\WindowsApplication4\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+G:\vb and fortran\array\WindowsApplication4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

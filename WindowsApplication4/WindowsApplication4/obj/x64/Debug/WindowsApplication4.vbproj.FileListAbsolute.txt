@@ -1,0 +1,10 @@
+G:\vb and fortran\array\WindowsApplication4\WindowsApplication4\bin\x64\Debug\WindowsApplication4.exe.config
+G:\vb and fortran\array\WindowsApplication4\WindowsApplication4\bin\x64\Debug\WindowsApplication4.exe
+G:\vb and fortran\array\WindowsApplication4\WindowsApplication4\bin\x64\Debug\WindowsApplication4.pdb
+G:\vb and fortran\array\WindowsApplication4\WindowsApplication4\bin\x64\Debug\WindowsApplication4.xml
+G:\vb and fortran\array\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.Form2.resources
+G:\vb and fortran\array\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.Resources.resources
+G:\vb and fortran\array\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+G:\vb and fortran\array\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.exe
+G:\vb and fortran\array\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.xml
+G:\vb and fortran\array\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.pdb
